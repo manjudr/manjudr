@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+### Portfolio
+
+![Manjunath Davanam github stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dracula&hide=stars,issues)
+
+
+
+
 <!--
 **manjudr/manjudr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
