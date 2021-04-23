@@ -4,14 +4,11 @@
 
 ### Portfolio
 
-![Manjunath Davanam github stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dracula&hide=stars,issues)
+![Manjunath Davanam github stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dark&hide=stars,issues)
 
 <!-- ![solarized-dark](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=solarized-dark) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjudr&theme=dracula) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manjudr&repo=sunbird-data-pipeline)](https://github.com/project-sunbird/sunbird-data-pipeline)
-
 
 
 
