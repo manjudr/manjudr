@@ -1,6 +1,6 @@
 ### Hi there, I'm Manjunath Davanam👋
 
-I'm a polyglot programmer and currently building an [**INDIAN DIGITAL LEARNING PLATFORM**](https://sunbird.org) For Millions of Students. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I'm a polyglot programmer currently working on an [**INDIAN DIGITAL LEARNING PLATFORM**](https://sunbird.org) FOR MILLIONS OF STUDENTS (education domains) as well as seeds and crop protection products for the formers (agriculture domain ). In addition, I am an open-source enthusiast and maintainer. I've learnt a lot from the open-source community,  enjoy collaborating and sharing my knowledge.
 
 
 ### Portfolio
