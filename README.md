@@ -1,6 +1,10 @@
 ### Hi there, I'm Manjunath Davanam👋
 
-I'm a polyglot programmer currently working on an [**INDIAN DIGITAL LEARNING PLATFORM**](https://sunbird.org) for millions of students (education domains) as well as seeds and crop protection products for the farmers (agriculture domain ). In addition, I am an open-source enthusiast and maintainer. I've learnt a lot from the open-source community, and i enjoy collaborating and sharing my knowledge.
+I am a polyglot programmer with a deep passion for building scalable platforms that drive real-world impact. Currently, I'm leading the development of **Obsrv**, an advanced data pipeline product that is set to redefine how organizations handle data processing and analytics.
+
+In my career, I have also built platforms across multiple domains. I’ve contributed to the development of an [**Indian Digital Learning Platform**](https://sunbird.org), a transformative initiative that provides education to millions of students, and I’ve worked on solutions for the agriculture sector, creating technology to support farmers with seeds and crop protection.
+
+Beyond platform development, I’m a strong advocate for open-source software, both as an active contributor and maintainer. The open-source community has played a crucial role in my growth, and I’m committed to giving back through collaboration and knowledge sharing. My mission is to continue building platforms that solve complex challenges and contribute to the greater good.
 
 
 ### Portfolio
