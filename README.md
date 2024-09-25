@@ -19,8 +19,7 @@ Beyond platform development, I’m a strong advocate for open-source software, b
 
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
+<p>
 <img alt="FLINK" src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white"/>
 <img alt="DRUID" src="https://img.shields.io/badge/Druid-13A3FF?style=for-the-badge&logo=Apache%20Druid&logoColor=white"/>
 <img alt="HUDI" src="https://img.shields.io/badge/Hudi-FF5733?style=for-the-badge&logo=Apache%20Hudi&logoColor=white"/>
@@ -36,9 +35,10 @@ Beyond platform development, I’m a strong advocate for open-source software, b
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img alt="EXPRESS.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
-
-<img alt="Appache Spark" src="https://img.shields.io/badge/-Apache%20Spark-red?style=for-the-badge&logo=apache%20spark&logoColor=white"/> <img alt = "Appache Cassandra" src="https://img.shields.io/badge/-Apache%20Cassandra-0769AD?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/> <img alt ="PSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+<img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-red?style=for-the-badge&logo=apache%20spark&logoColor=white"/> 
+<img alt="Apache Cassandra" src="https://img.shields.io/badge/-Apache%20Cassandra-0769AD?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/> 
+<img alt="PSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 
 
