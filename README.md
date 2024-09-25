@@ -17,6 +17,12 @@ Beyond platform development, I’m a strong advocate for open-source software, b
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjudr&theme=dracula) -->
 
+### 🌟 Key Projects
+- **[Obsrv](obsrv.sunbird.org)**: A cutting-edge data pipeline product for efficient data handling.
+- **[Indian Digital Learning Platform](https://sunbird.org)**: A transformative initiative providing education to millions of students.
+- **[Agriculture Tech Solutions](https://www.syngenta.com/en)**: Technologies supporting farmers with seeds and crop protection.
+
+
 
 #### Top Technologies
 <p>
