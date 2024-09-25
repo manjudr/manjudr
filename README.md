@@ -1,10 +1,12 @@
 ### Hi there, I'm Manjunath Davanam👋
 
-I am a polyglot programmer with a deep passion for building scalable platforms that drive real-world impact. Currently, I'm leading the development of **Obsrv**, an advanced data pipeline product that is set to redefine how organizations handle data processing and analytics.
+I am a polyglot programmer with a deep passion for building scalable platforms that drive real-world impact. Currently, I'm leading the development of **Obsrv**, an advanced data pipeline product set to redefine how organizations handle data processing and analytics.
 
-In my career, I have also built platforms across multiple domains. I’ve contributed to the development of an [**Indian Digital Learning Platform**](https://sunbird.org), a transformative initiative that provides education to millions of students, and I’ve worked on solutions for the agriculture sector, creating technology to support farmers with seeds and crop protection.
+Throughout my career, I have designed and built platforms across multiple domains, blending strong **architectural design** skills with practical engineering solutions. I’ve contributed to the development of an Indian Digital Learning Platform, a transformative initiative that provides education to millions of students, and I’ve worked on solutions for the agriculture sector, creating technology to support farmers with seeds and crop protection.
 
-Beyond platform development, I’m a strong advocate for open-source software, both as an active contributor and maintainer. The open-source community has played a crucial role in my growth, and I’m committed to giving back through collaboration and knowledge sharing. My mission is to continue building platforms that solve complex challenges and contribute to the greater good.
+As a **quick learner**, I rapidly adapt to new technologies and challenges. Combined with my expertise in **system architecture** and **debugging complex systems**, I excel at designing end-to-end solutions that are both scalable and resilient. My debugging skills enable me to identify root causes efficiently, ensuring the reliability and performance of the platforms I develop.
+
+Beyond platform development, I’m a strong advocate for open-source software, both as an active contributor and maintainer. The open-source community has played a crucial role in my growth, and I’m committed to giving back through collaboration and knowledge sharing. My mission is to continue building platforms that solve complex challenges, with a focus on delivering real-world impact through strategic design, technical excellence, and continuous learning.
 
 
 ### Portfolio
@@ -19,7 +21,10 @@ Beyond platform development, I’m a strong advocate for open-source software, b
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+<img alt="FLINK" src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white"/>
+<img alt="DRUID" src="https://img.shields.io/badge/Druid-13A3FF?style=for-the-badge&logo=Apache%20Druid&logoColor=white"/>
+<img alt="HUDI" src="https://img.shields.io/badge/Hudi-FF5733?style=for-the-badge&logo=Apache%20Hudi&logoColor=white"/>
+<img alt="SUPERSET" src="https://img.shields.io/badge/Superset-2A3E5F?style=for-the-badge&logo=Apache%20Superset&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Spring" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>	
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
