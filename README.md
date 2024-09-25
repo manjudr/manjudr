@@ -8,7 +8,7 @@ Throughout my career, I have designed and built platforms across multiple domain
 - **[Indian Digital Learning Platform](https://sunbird.org)**: A transformative initiative that provides education to millions of students.
 - **Agriculture Tech Solutions**: Developing technology to support farmers with seeds and crop protection.
 
-As a **quick learner**, I rapidly adapt to new technologies and challenges. My expertise in **system architecture**, **debugging complex systems**, and **tuning and performance benchmarking** allows me to excel at designing end-to-end solutions that are both scalable and resilient. I take pride in my ability to efficiently identify root causes, ensuring the reliability and performance of the platforms I develop.
+As a **quick learner**, I rapidly adapt to new technologies and challenges. My expertise in **system architecture**, **debugging complex systems**, **Containerization**, **Site Reliability Engineering (SRE)** and **tuning and performance benchmarking** allows me to excel at designing end-to-end solutions that are both scalable and resilient. I take pride in my ability to efficiently identify root causes, ensuring the reliability and performance of the platforms I develop.
 
 #### 🌍 Open Source Advocacy
 I am a strong advocate for open-source software, actively contributing and maintaining projects. The open-source community has been instrumental in my growth, and I am committed to giving back through collaboration and knowledge sharing. My mission is to continue building platforms that solve complex challenges, focusing on delivering real-world impact through strategic design, technical excellence, and continuous learning.
