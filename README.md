@@ -2,7 +2,7 @@
 
 I am a polyglot programmer with a deep passion for building scalable platforms that drive real-world impact. Currently, I'm leading the development of **Obsrv**, an advanced data pipeline product set to redefine how organizations handle data processing and analytics.
 
-Throughout my career, I have designed and built platforms across multiple domains, blending strong **architectural design** skills with practical engineering solutions. I’ve contributed to the development of an Indian Digital Learning Platform, a transformative initiative that provides education to millions of students, and I’ve worked on solutions for the agriculture sector, creating technology to support farmers with seeds and crop protection.
+Throughout my career, I have designed and built platforms across multiple domains, blending strong **architectural design** skills with practical engineering solutions. I’ve contributed to the development of an [**Indian Digital Learning Platform**](https://sunbird.org), a transformative initiative that provides education to millions of students, and I’ve worked on solutions for the agriculture sector, creating technology to support farmers with seeds and crop protection.
 
 As a **quick learner**, I rapidly adapt to new technologies and challenges. Combined with my expertise in **system architecture** and **debugging complex systems**, I excel at designing end-to-end solutions that are both scalable and resilient. My debugging skills enable me to identify root causes efficiently, ensuring the reliability and performance of the platforms I develop.
 
