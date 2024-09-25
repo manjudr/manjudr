@@ -25,8 +25,14 @@ Beyond platform development, I’m a strong advocate for open-source software, b
 <img alt="DRUID" src="https://img.shields.io/badge/Druid-13A3FF?style=for-the-badge&logo=Apache%20Druid&logoColor=white"/>
 <img alt="HUDI" src="https://img.shields.io/badge/Hudi-FF5733?style=for-the-badge&logo=Apache%20Hudi&logoColor=white"/>
 <img alt="SUPERSET" src="https://img.shields.io/badge/Superset-2A3E5F?style=for-the-badge&logo=Apache%20Superset&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="DOCKER" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="KUBERNETES" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="PLATFORM DESIGN" src="https://img.shields.io/badge/Platform_Design-0052CC?style=for-the-badge&logo=blueprint&logoColor=white"/>
+<img alt="ARCHITECTURAL DESIGN" src="https://img.shields.io/badge/Architectural_Design-6DB33F?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Spring" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>	
+<img alt="DEBUGGING" src="https://img.shields.io/badge/Debugging-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
 <img alt="EXPRESS.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
