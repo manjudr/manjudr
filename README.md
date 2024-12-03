@@ -22,9 +22,18 @@ I am a strong advocate for open-source software, actively contributing to and ma
 
 ---
 
+
 ### 📂 Portfolio
 
-![Manjunath Davanam GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dark&hide=stars,issues)
+| GitHub Stats | Contributions Streak |
+| --- | --- |
+| ![Manjunath Davanam GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dark&hide=stars,issues) | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manjudr&theme=dark) |
+
+| Commit Frequency |
+| --- |
+| ![Commit Frequency](https://github-readme-activity-graph.cyclic.app/graph?username=manjudr&custom_title=Commit%20Frequency&theme=github) |
+
+
 
 ### 🌟 Key Projects
 - **[Obsrv](obsrv.sunbird.org)**: A cutting-edge data pipeline product for efficient data handling and analytics.
