@@ -34,23 +34,20 @@ I am a strong supporter of **open-source software** and actively contribute to v
 
 ---
 
-### 📂 My Work at a Glance  
-
-| GitHub Stats                     | Contribution Streak                     |
-|-----------------------------------|-----------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dark&hide=stars,issues) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjudr&theme=dark) |
-
-| Commit Frequency                 |
-|----------------------------------|
-| ![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=manjudr&custom_title=Commit%20Frequency&theme=github) |  
-
----
-
 ### 🌟 Featured Projects  
 
 - **[Obsrv](https://obsrv.sunbird.org)**: A powerful data pipeline product for real-time data processing and analytics.  
 - **[Indian Digital Learning Platform](https://sunbird.org)**: A platform that revolutionized digital education for millions of students.  
 - **[Agriculture Tech Solutions](https://www.syngenta.com/en)**: Advanced tools to support sustainable farming and innovation in agriculture.  
+
+---
+
+### 📂 My Work at a Glance  
+
+| GitHub Stats                     | 
+|-----------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjudr&show_icons=true&theme=dark&hide=stars,issues) 
+
 
 ---
 
@@ -71,13 +68,11 @@ I am a strong supporter of **open-source software** and actively contribute to v
 
 ---
 
-### 📫 Let’s Connect  
+**Let's Connect**
 
-- **[LinkedIn](https://www.linkedin.com/in/manjunathdr/)**  
-  ![LinkedIn Badge](https://img.shields.io/badge/-@Manju-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)  
-- **[Email](mailto:manjunathdavanam@gmail.com)**  
-  ![Email Badge](https://img.shields.io/badge/-@Manju-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)  
-
+| **[LinkedIn](https://www.linkedin.com/in/manjunathdr/)** | **[Email](mailto:manjunathdavanam@gmail.com)** |
+|---|---|
+| ![LinkedIn Badge](https://img.shields.io/badge/-@manjunathdr-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white) | ![Email Badge](https://img.shields.io/badge/-manjunathdavanam@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white) |
 ---
 
 **Let’s create impactful and reliable solutions together!**  
