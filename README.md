@@ -19,12 +19,29 @@ With years of experience building **scalable and reliable platforms**, I special
 
 I enjoy solving complex challenges and quickly learning new technologies. My skills include:  
 
-- **Platform Architecture & Design**  
-- **Big Data and Analytics**  
-- **Cloud-Native Technologies**  
-- **Performance Optimization**  
-- **Site Reliability Engineering (SRE)**  
-- **Debugging Distributed Systems**  
+**1. Platform Architecture & Design** 🏛️ 
+    - Expertise in designing and implementing scalable and resilient system architectures.
+    - Proven ability to translate business requirements into robust technical solutions.
+
+**2. Big Data & Analytics** 📊 
+    - Deep understanding of big data technologies and their applications.
+    - Experience with data ingestion, processing, analysis, and visualization.
+
+**3. Cloud-Native Technologies** ☁️ 
+    - Proficiency in developing and deploying applications on cloud platforms (AWS, Azure, GCP, On-Peremis).
+    - Expertise in containerization (Docker, Kubernetes) and serverless technologies.
+
+**4. Performance Optimization** 🚀 
+    - Focus on improving system performance, scalability, and efficiency.
+    - Proven ability to identify and resolve performance bottlenecks.
+
+**5. Site Reliability Engineering (SRE)** 🛠️ 
+    - Expertise in ensuring system reliability, availability, and performance.
+    - Experience with monitoring, alerting, and incident response.
+
+**6. Debugging Distributed Systems** 🔍 
+    - Ability to diagnose and troubleshoot complex issues in distributed environments.
+    - Strong analytical and problem-solving skills.
 
 ---
 
