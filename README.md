@@ -68,13 +68,8 @@ I am a strong supporter of **open-source software** and actively contribute to v
 
 ---
 
-**Let's Connect**
+**Let's create impactful and reliable solutions together!**
 
-| **[LinkedIn](https://www.linkedin.com/in/manjunathdr/)** | **[Email](mailto:manjunathdavanam@gmail.com)** |
-|---|---|
-| ![LinkedIn Badge](https://img.shields.io/badge/-@manjunathdr-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white) | ![Email Badge](https://img.shields.io/badge/-manjunathdavanam@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white) |
+![Email Badge](https://img.shields.io/badge/-manjunathdavanam@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)  ![LinkedIn Badge](https://img.shields.io/badge/-@manjunathdr-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)
+
 ---
-
-**Let’s create impactful and reliable solutions together!**  
-
----  
